@@ -1,6 +1,7 @@
 # weather_app
 
 This project is a simple weather forecasting web application. It allows users to search for the current weather conditions in any city worldwide. The weather data is fetched from the OpenWeatherMap API and displayed in a user-friendly format.
+![image alt](image y=url)
 
 Features
 1. City Search: Users can search for weather information by entering a city name.
